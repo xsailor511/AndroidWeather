@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- Weather app specific colors -->
+    <color name="weather_sky_blue">#FF2196F3</color>
+    <color name="weather_sunset_orange">#FFFF9800</color>
+    <color name="weather_night_dark">#FF1A237E</color>
+    <color name="weather_cloud_gray">#FF90A4AE</color>
+    <color name="weather_rain_blue">#FF0288D1</color>
+    <color name="weather_snow_white">#FFF5F5F5</color>
+    <color name="weather_sand">#FFFFF8E1</color>
+    <color name="weather_haze">#FF616161</color>
+    <color name="weather_app_bar">#FF1976D2</color>
+    <color name="weather_card_bg">#FFF8F9FA</color>
+    <color name="weather_text_primary">#FF212121</color>
+    <color name="weather_text_secondary">#FF757575</color>
+    <color name="weather_divider">#FFE0E0E0</color>
+    <color name="weather_accent">#FF4CAF50</color>
+</resources>
